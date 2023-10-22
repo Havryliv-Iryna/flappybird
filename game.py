@@ -28,9 +28,6 @@ class Bird(GameSprite):
             self.rect.y -= self.speed*2
 
 
-
-
-
 bird = Bird(None, (50,HEIGHT/2), (50,50), 5)
 
 
